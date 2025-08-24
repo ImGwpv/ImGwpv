@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/928787166916640838)](https://discord.com/users/928787166916640838)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1162663256087871530)](https://discord.com/users/1162663256087871530)
 ```zsh
 > King of Cheating
 ```
