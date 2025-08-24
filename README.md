@@ -9,7 +9,7 @@
 
 print("Hey")
 ----------------
-       OS  :  Windows 11 
+       OS  :  Arch Linux + Hyprland
       CPU  :  AMD Ryzen 5 5600X 6-Core Processor 4,6 GHz
       GPU  :  AMD Radeon RX 6650XT
       RAM  :  16 GB Vengeance Pro 3600Mhz
