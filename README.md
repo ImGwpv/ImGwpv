@@ -7,7 +7,7 @@
 
 ```csharp
 
-Hello stalker
+print("Hey")
 ----------------
        OS  :  Windows 11 
       CPU  :  AMD Ryzen 5 5600X 6-Core Processor 4,6 GHz
