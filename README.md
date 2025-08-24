@@ -3,7 +3,7 @@
 > King of C#
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ZannaSkull/ZannaSkull/main/Main/Logo.jpg" alt="Logo.jpg" width="200" /> 
+<img align="left" src="Main/Logo.png" alt="Logo.png" width="200" /> 
 
 ```csharp
 
